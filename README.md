@@ -1,4 +1,4 @@
-# terraform-deployment
+# IaC for optimized deployment
 
 ### General use
 
